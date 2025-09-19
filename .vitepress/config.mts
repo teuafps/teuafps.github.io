@@ -19,7 +19,7 @@ export default defineConfig({
       ]
     },
     socialLinks: [
-      { icon: 'X', link: 'https://x.com/TeuaGG' },
+      { icon: 'x', link: 'https://x.com/TeuaGG' },
       { icon: 'discord', link: 'https://discord.gg/your-invite' }
     ]
   }
