@@ -1,28 +1,26 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Teua Server",
-  description: "都市開発マイクラ鯖",
+  title: 'Teua UD Project',
+  description: 'Minecraft 都市開発サーバー 夏彩県 公式サイト',
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'ホーム', link: '/' },
+      { text: '夏彩県について', link: '/about' },
+      { text: '利用規約', link: '/rules' },
+      { text: '都市条例', link: '/ordinance' },
+      { text: 'Discord', link: 'https://discord.gg/your-invite' }
     ],
-
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
-
+    sidebar: {
+      '/': [
+        { text: '夏彩県について', link: '/about' },
+        { text: '利用規約', link: '/rules' },
+        { text: '都市条例', link: '/ordinance' }
+      ]
+    },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'X (旧Twitter)', link: 'https://x.com/TeuaGG' },
+      { icon: 'discord', link: 'https://discord.gg/your-invite' }
     ]
   }
 })

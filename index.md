@@ -1,16 +1,31 @@
 ---
 layout: home
----
 
-<div class="hero">
-  <h1>Urban Development Project</h1>
-  <p>みんなで創る都市開発サーバー</p>
-  <a class="button" href="https://discord.gg/xxxx">参加する</a>
-</div>
+hero:
+  name: "Teua UD Project"
+  text: "Minecraft 都市開発サーバー"
+  tagline: "車・電車・飛行機・建築MODで創る、新しい都市空間。"
+  image:
+    src: /server-banner.png
+    alt: サーバーバナー
+  actions:
+    - theme: brand
+      text: Discord に参加
+      link: https://discord.gg/your-invite
+    - theme: alt
+      text: X (旧Twitter)
+      link: https://x.com/TeuaGG
 
-## サーバーの特徴
-
-- 🏙️ 都市開発がメイン
-- 💰 経済システムあり
-- 🚆 鉄道・道路で交通網整備
-- 🎉 イベントも随時開催！
+features:
+  - icon: 🏙️
+    title: 都市開発
+    details: 市町村制度でリアルな街づくりを推進。高層ビルから住宅地まで自由に。
+  - icon: 🚗
+    title: 交通インフラ
+    details: 車・電車・飛行機MODで動く都市を体験。空港や鉄道網の整備も可能。
+  - icon: 🏗️
+    title: 建築重視
+    details: 建築MODで細部まで作り込んだデザインを楽しもう。
+  - icon: 🤝
+    title: コミュニティ
+    details: 建築士・住民が協力して一つの県を創り上げます。
