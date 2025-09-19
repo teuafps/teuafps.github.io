@@ -6,7 +6,7 @@ hero:
   text: "Minecraft 都市開発サーバー"
   tagline: "車・電車・飛行機・建築MODで創る、新しい都市空間。"
   image:
-    src: server-banner.png
+    src: /server-banner.png
     alt: サーバーバナー
   actions:
     - theme: brand
