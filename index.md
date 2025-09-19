@@ -1,25 +1,16 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
-hero:
-  name: "Teua Server"
-  text: "都市開発マイクラ鯖"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+<div class="hero">
+  <h1>Urban Development Project</h1>
+  <p>みんなで創る都市開発サーバー</p>
+  <a class="button" href="https://discord.gg/xxxx">参加する</a>
+</div>
+
+## サーバーの特徴
+
+- 🏙️ 都市開発がメイン
+- 💰 経済システムあり
+- 🚆 鉄道・道路で交通網整備
+- 🎉 イベントも随時開催！

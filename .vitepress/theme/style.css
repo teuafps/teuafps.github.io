@@ -1,0 +1,30 @@
+.hero {
+  text-align: center;
+  padding: 6rem 1rem;
+  background: linear-gradient(135deg, #4f46e5, #9333ea);
+  color: white;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1.25rem;
+  opacity: 0.9;
+}
+
+.hero .button {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  background: white;
+  color: #4f46e5;
+  font-weight: bold;
+  border-radius: 0.5rem;
+  text-decoration: none;
+}
+.hero .button:hover {
+  background: #f0f0ff;
+}
