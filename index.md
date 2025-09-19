@@ -26,6 +26,3 @@ features:
   - icon: 🏗️
     title: 建築重視
     details: 建築MODで細部まで作り込んだデザインを楽しもう。
-  - icon: 🤝
-    title: コミュニティ
-    details: 建築士・住民が協力して一つの県を創り上げます。
