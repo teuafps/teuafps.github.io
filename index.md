@@ -12,7 +12,7 @@ hero:
     - theme: brand
       text: Discord に参加
       link: https://discord.gg/your-invite
-    - theme: alt
+    - theme: brand
       text: X (旧Twitter)
       link: https://x.com/TeuaGG
 
