@@ -6,14 +6,14 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'ホーム', link: '/' },
-      { text: '夏彩県について', link: '/about' },
+      { text: '本サーバーについて', link: '/about' },
       { text: '利用規約', link: '/rules' },
       { text: '都市条例', link: '/ordinance' },
-      { text: 'Discord', link: 'https://discord.gg/your-invite' }
+      { text: 'MAP', link: '' }
     ],
     sidebar: {
       '/': [
-        { text: '夏彩県について', link: '/about' },
+        { text: '本サーバーについて', link: '/about' },
         { text: '利用規約', link: '/rules' },
         { text: '都市条例', link: '/ordinance' }
       ]
