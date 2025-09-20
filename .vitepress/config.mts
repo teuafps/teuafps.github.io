@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Teua UD Project',
-  description: 'Minecraft 都市開発サーバー 夏彩県 公式サイト',
+  title: 'Teua UD Server',
+  description: 'Minecraft 都市開発サーバー 公式サイト',
   themeConfig: {
     nav: [
       { text: 'ホーム', link: '/' },

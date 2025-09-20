@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Teua UD Project"
+  name: "Teua UD Server"
   text: "Minecraft都市開発鯖"
   tagline: "車・電車・飛行機・建築MODで創る、新しい都市空間。"
   image:
