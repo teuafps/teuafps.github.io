@@ -248,7 +248,7 @@
   <section class="intro">
       <strong>募集職種：</strong> 技術運営 / 建築勢（ビルダー）<br />
       <span class="notes">下の項目から合致するものがあればぜひご応募ください！</span>
-    </section>
+  </section>
 
   <div class="grid">
       <div class="card" style="border-top:4px solid #bfdbfe">
@@ -275,76 +275,76 @@
           <li>ワールド編集ツール（WorldEdit等）やMODの利用経験があると便利</li>
           <li>利用規約を守り、他の参加者と協調できる方</li>
         </ul>
-        <div class="cta">
+      <div class="cta">
           <a class="btn btn-primary" href="https://forms.gle/oghHLE36yyCUr87XA">応募する</a>
           <a class="btn btn-outline" href="/rules">利用規約を確認</a>
-        </div>
       </div>
     </div>
+  </div>
 
   <div class="main-content">
-      <div>
-        <div class="card" id="apply-tech">
-          <h3>応募方法</h3>
-          <p>以下の情報を添えてTeua UD Server参加応募用フォーム / google formでお送りください。</p>
-          <ul class="req">
-            <li>希望ポジション（技術運営 / 建築勢）</li>
-            <li>自己紹介（プレイ歴、得意分野）</li>
-            <li>実績（GitHub / ポートフォリオ / スクリーンショット 等）</li>
-            <li>Discord ID（例: YourName#1234）</li>
-          </ul>
-          <p class="notes">書類選考ののち、軽い面談へ進む場合があります。</p>
-        </div>
+        <div>
+          <div class="card" id="apply-tech">
+            <h3>応募方法</h3>
+            <p>以下の情報を添えてTeua UD Server参加応募用フォーム / google formでお送りください。</p>
+            <ul class="req">
+              <li>希望ポジション（技術運営 / 建築勢）</li>
+              <li>自己紹介（プレイ歴、得意分野）</li>
+              <li>実績（GitHub / ポートフォリオ / スクリーンショット 等）</li>
+              <li>Discord ID（例: YourName#1234）</li>
+            </ul>
+            <p class="notes">書類選考ののち、軽い面談へ進む場合があります。</p>
+          </div> <!-- ←閉じタグ追加 -->
 
-  <div class="card" id="apply-builder" style="margin-top:12px">
-          <h3>選考フロー</h3>
-          <ol>
-            <li>応募 → 書類（またはポートフォリオ）確認 → 合否連絡</li>
-          </ol>
-        </div>
+          <div class="card" id="apply-builder" style="margin-top:12px">
+            <h3>選考フロー</h3>
+            <ol>
+              <li>応募 → 書類（またはポートフォリオ）確認 → 合否連絡</li>
+            </ol>
+          </div> <!-- ←閉じタグ追加 -->
 
-  <section class="card" style="margin-top:20px">
-          <h3>導入MOD（一部抜粋）</h3>
-          <p class="disclaimer">当サーバーで使用している主要なMODの一例です。</p>
-          <ul class="req">
-            <li>Immersive Vehicles（車・乗り物MOD）</li>
-            <li>Immersive Aircraft（飛行機MOD）</li>
-            <li>MinecraftTransitRailway（鉄道MOD）</li>
-            <li>WorldEdit（建築補助）</li>
-            <li>yuushya townscape（建築MOD）</li>
-            <li>ModernJapanCity（建築MOD）</li>
-          </ul>
-          <p class="notes">※CurseforgeでのMod導入が必須となります。</p>
-        </section>
+          <section class="card" style="margin-top:20px">
+            <h3>導入MOD（一部抜粋）</h3>
+            <p class="disclaimer">当サーバーで使用している主要なMODの一例です。</p>
+            <ul class="req">
+              <li>Immersive Vehicles（車・乗り物MOD）</li>
+              <li>Immersive Aircraft（飛行機MOD）</li>
+              <li>MinecraftTransitRailway（鉄道MOD）</li>
+              <li>WorldEdit（建築補助）</li>
+              <li>yuushya townscape（建築MOD）</li>
+              <li>ModernJapanCity（建築MOD）</li>
+            </ul>
+            <p class="notes">※CurseforgeでのMod導入が必須となります。</p>
+          </section>
 
-  <section class="card" style="margin-top:20px">
-          <h3>サーバー内スクリーンショット</h3>
-          <div class="gallery">
-            <img src="/1.png">
-            <img src="/2.png">
-            <img src="/3.png">
+          <section class="card" style="margin-top:20px">
+            <h3>サーバー内スクリーンショット</h3>
+            <div class="gallery">
+              <img src="/1.png" alt="スクリーンショット1" />
+              <img src="/2.png" alt="スクリーンショット2" />
+              <img src="/3.png" alt="スクリーンショット3" />
+            </div>
+          </section>
+        </div> <!-- ←閉じタグ追加 -->
+
+        <aside class="side">
+          <h4>運営情報</h4>
+          <p style="margin:6px 0">サーバー：TeuaUDServer / Minecraft都市開発鯖</p>
+          <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px">
+            <span class="pill">活動時間: 不定期</span>
+            <span class="pill">サーバー作成日時: 2025/9/16</span>
           </div>
-        </section>
-      </div>
 
-  <aside class="side">
-        <h4>運営情報</h4>
-        <p style="margin:6px 0">サーバー：TeuaUDServer / Minecraft都市開発鯖</p>
-        <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px">
-          <span class="pill">活動時間: 不定期</span>
-          <span class="pill">サーバー作成日時: 2025/9/16</span>
-        </div>
+          <h4 style="margin-top:12px">連絡先</h4>
+          <p style="margin:6px 0">Discord: <strong id="discord">@teuafps</strong></p>
+          <p style="margin:6px 0">X (旧Twitter): <strong>@TeuaUDServer</strong></p>
+          <p style="margin:6px 0">応募フォーム: <a href="https://forms.gle/oghHLE36yyCUr87XA">https://forms.gle/oghHLE36yyCUr87XA</a></p>
 
-  <h4 style="margin-top:12px">連絡先</h4>
-        <p style="margin:6px 0">Discord: <strong id="discord">@teuafps</strong></p>
-        <p style="margin:6px 0">X (旧Twitter): <strong>@TeuaUDServer</strong></p>
-        <p style="margin:6px 0">応募フォーム: <a href="https://forms.gle/oghHLE36yyCUr87XA">https://forms.gle/oghHLE36yyCUr87XA</a></p>
+          <div class="disclaimer">※応募前に利用規約を必ずご確認ください。<a href="https://teuafps.github.io">https://teuafps.github.io</a></div>
+        </aside>
+      </div> <!-- ←閉じタグ追加 -->
 
-  <div class="disclaimer">※応募前に利用規約を必ずご確認ください。<a href="https://teuafps.github.io">https://teuafps.github.io</div>
-      </aside>
-    </div>
-
-  <footer>
+    <footer>
       © TeuaUDServer / Minecraft都市開発鯖
     </footer>
   </div>
