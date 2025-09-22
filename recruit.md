@@ -340,7 +340,7 @@
         <p style="margin:6px 0">X (旧Twitter): <strong>@TeuaUDServer</strong></p>
         <p style="margin:6px 0">応募フォーム: <a href="https://forms.gle/oghHLE36yyCUr87XA">https://forms.gle/oghHLE36yyCUr87XA</a></p>
 
-  <div class="disclaimer">※利用規約は応募前に必ずご確認ください。<a href="https://teuafps.github.io">https://teuafps.github.io</div>
+  <div class="disclaimer">※応募前に利用規約を必ずご確認ください。<a href="https://teuafps.github.io">https://teuafps.github.io</div>
       </aside>
     </div>
 
