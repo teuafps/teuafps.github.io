@@ -281,7 +281,7 @@
     </div>
   </div>
 
-    <div class="main-content">
+  <div class="main-content">
       <div>
         <div class="card">
           <h3>応募方法</h3>
@@ -295,14 +295,14 @@
           <p class="notes">書類選考ののち、軽い面談へ進む場合があります。</p>
         </div>
 
-        <div class="card" style="margin-top:12px">
+  <div class="card" style="margin-top:12px">
           <h3>選考フロー</h3>
           <ol>
             <li>応募 → 書類（またはポートフォリオ）確認 → 合否連絡</li>
           </ol>
         </div>
 
-        <div class="card" style="margin-top:20px">
+  <div class="card" style="margin-top:20px">
           <h3>導入MOD（一部抜粋）</h3>
           <p class="disclaimer">当サーバーで使用している主要なMODの一例です。</p>
           <ul class="req">
@@ -314,9 +314,9 @@
             <li>ModernJapanCity（建築MOD）</li>
           </ul>
           <p class="notes">※CurseforgeでのMod導入が必須となります。</p>
-        </div>
+   </div>
 
-        <div class="card" style="margin-top:20px">
+  <div class="card" style="margin-top:20px">
           <h3>サーバー内スクリーンショット</h3>
           <div class="gallery">
             <img src="/1.png" alt="スクリーンショット1">
@@ -324,7 +324,7 @@
             <img src="/3.png" alt="スクリーンショット3">
           </div>
         </div>
-      </div>
+  </div>
 
       <aside class="side">
         <h4>運営情報</h4>
