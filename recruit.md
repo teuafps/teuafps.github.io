@@ -320,9 +320,9 @@
   <section class="card" style="margin-top:20px">
           <h3>サーバー内スクリーンショット</h3>
           <div class="gallery">
-            <img src="/1.png" alt="">
-            <img src="/2.png" alt="">
-            <img src="/3.png" alt="">
+            <img src="/1.png">
+            <img src="/2.png">
+            <img src="/3.png">
           </div>
         </section>
       </div>
