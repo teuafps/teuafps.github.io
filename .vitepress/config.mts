@@ -9,6 +9,7 @@ export default defineConfig({
       { text: '本サーバーについて', link: '/about' },
       { text: '利用規約', link: '/rules' },
       { text: '都市条例', link: '/ordinance' },
+      { text: '募集要項', link: '/recruit' },
       { text: 'MAP', link: '' }
     ],
     sidebar: {
