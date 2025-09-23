@@ -21,7 +21,7 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'x', link: 'https://x.com/TeuaGG' },
-      { icon: 'discord', link: 'https://discord.gg/your-invite' }
+      { icon: 'google', link: 'https://forms.gle/oghHLE36yyCUr87XA' }
     ]
   }
 })

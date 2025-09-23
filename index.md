@@ -10,8 +10,8 @@ hero:
     alt: サーバーバナー
   actions:
     - theme: brand
-      text: Discord に参加
-      link: https://discord.gg/your-invite
+      text: サーバーに参加
+      link: https://forms.gle/oghHLE36yyCUr87XA
     - theme: alt
       text: X (旧Twitter)
       link: https://x.com/TeuaGG
