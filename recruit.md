@@ -84,6 +84,19 @@
   cursor: pointer; transition: transform .2s ease;
 }
 .recruit-container .gallery img:hover { transform: scale(1.03) }
+
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; 
+  gap: 20px;
+  margin-top: 20px;
+}
+
+@media (max-width: 780px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}
 </style>
 
 <div class="recruit-container">
@@ -154,7 +167,8 @@
           <li>応募 → 書類（またはポートフォリオ）確認 → 合否連絡</li>
         </ol>
       </div>
-      <section class="card" style="margin-top:20px">
+    <div class="card-grid">
+        <section class="card">
         <h3>導入MOD（一部抜粋）</h3>
         <p class="disclaimer">当サーバーで使用している主要なMODの一例です。</p>
         <ul class="req">
