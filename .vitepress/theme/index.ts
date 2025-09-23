@@ -1,11 +1,13 @@
-import Theme from 'vitepress/theme'
-import RecruitCard from './components/RecruitCard.vue'
+// docs/.vitepress/theme/index.ts
+
+import Theme from 'vitepress/theme';
+import RecruitCard from '.components/RecruitCard.vue'; // コンポーネントのパスを調整してください
+import './custom.css'; // 必要に応じてグローバルスタイルを追加
 
 export default {
   ...Theme,
-  // この enhanceApp メソッドが重要です
+  // 登録するコンポーネント
   enhanceApp({ app }) {
-    // グローバルコンポーネントとして登録
-    app.component('RecruitCard', RecruitCard)
-  }
-}
+    app.component('RecruitCard', RecruitCard);
+  },
+};
