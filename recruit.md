@@ -168,7 +168,7 @@
         </ol>
       </div>
     <div class="card-grid">
-        <section class="card">
+    　<section class="card">
         <h3>導入MOD（一部抜粋）</h3>
         <p class="disclaimer">当サーバーで使用している主要なMODの一例です。</p>
         <ul class="req">
@@ -189,6 +189,7 @@
           <img src="/3.png" alt="">
         </div>
       </section>
+    </div>
     </div>
     <aside class="side">
       <h4>運営情報</h4>
