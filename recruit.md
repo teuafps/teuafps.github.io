@@ -1,5 +1,3 @@
-# 募集要項
-
 <style>
 .recruit-container {
   --bg: #ffffff;
@@ -84,19 +82,6 @@
   cursor: pointer; transition: transform .2s ease;
 }
 .recruit-container .gallery img:hover { transform: scale(1.03) }
-
-.card-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr; 
-  gap: 20px;
-  margin-top: 20px;
-}
-
-@media (max-width: 780px) {
-  .card-grid {
-    grid-template-columns: 1fr;
-  }
-}
 </style>
 
 <div class="recruit-container">
@@ -167,8 +152,7 @@
           <li>応募 → 書類（またはポートフォリオ）確認 → 合否連絡</li>
         </ol>
       </div>
-    <div class="card-grid">
-    　<section class="card">
+      <section class="card" style="margin-top:20px">
         <h3>導入MOD（一部抜粋）</h3>
         <p class="disclaimer">当サーバーで使用している主要なMODの一例です。</p>
         <ul class="req">
@@ -181,15 +165,6 @@
         </ul>
         <p class="notes">※CurseforgeでのMod導入が必須となります。</p>
       </section>
-      <section class="card" style="margin-top:20px">
-        <h3>サーバー内スクリーンショット</h3>
-        <div class="gallery">
-          <img src="/1.png" alt="">
-          <img src="/2.png" alt="">
-          <img src="/3.png" alt="">
-        </div>
-      </section>
-    </div>
     </div>
     <aside class="side">
       <h4>運営情報</h4>
@@ -203,7 +178,15 @@
       <p style="margin:6px 0">X (旧Twitter): <strong>@TeuaUDServer</strong></p>
       <p style="margin:6px 0">応募フォーム: <a href="https://forms.gle/oghHLE36yyCUr87XA">https://forms.gle/oghHLE36yyCUr87XA</a></p>
       <div class="disclaimer">※利用規約は応募前に必ずご確認ください。<a href="https://teuafps.github.io">https://teuafps.github.io</a></div>
-    </aside>
+  <div class="card" style="margin-top:20px">
+    <h3>サーバー内スクリーンショット</h3>
+    <div class="gallery">
+      <img src="/1.png" alt="">
+      <img src="/2.png" alt="">
+      <img src="/3.png" alt="">
+    </div>
+  </div>
+</aside>
   </div>
 
   <footer>
