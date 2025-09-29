@@ -14,7 +14,7 @@ hero:
       link: https://discord.gg/XH4pQjmpHS
     - theme: alt
       text: X (旧Twitter)
-      link: https://x.com/TeuaGG
+      link: https://x.com/TeuaUDServer
 
 features:
   - icon: 🏙️
