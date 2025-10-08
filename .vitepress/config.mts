@@ -21,6 +21,7 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'x', link: 'https://x.com/TeuaUDServer' },
+      { icon: 'discord', link: 'https://discord.gg/aSzt7fzyzU' },
       { icon: 'google', link: 'https://forms.gle/oghHLE36yyCUr87XA' }
     ]
   }

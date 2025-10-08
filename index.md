@@ -10,8 +10,8 @@ hero:
     alt: サーバーバナー
   actions:
     - theme: brand
-      text: Discordに参加 (期間限定！)
-      link: https://discord.gg/XH4pQjmpHS
+      text: Discordに参加
+      link: https://discord.gg/aSzt7fzyzU
     - theme: alt
       text: X (旧Twitter)
       link: https://x.com/TeuaUDServer
