@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Discordに参加
-      link: https://discord.gg/aSzt7fzyzU
+      link: https://discord.gg/6urNmarNNA
     - theme: alt
       text: X (旧Twitter)
       link: https://x.com/TeuaUDServer
