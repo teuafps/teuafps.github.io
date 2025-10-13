@@ -10,7 +10,7 @@ export default defineConfig({
       { text: '利用規約', link: '/rules' },
       { text: '都市条例', link: '/ordinance' },
       { text: '募集要項', link: '/recruit' },
-      { text: 'MAP', link: '' }
+      { text: 'MAP', link: 'http://pureno.top:8100' }
     ],
     sidebar: {
       '/': [
