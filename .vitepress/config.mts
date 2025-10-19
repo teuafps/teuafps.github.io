@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Teua UD Server',
-  description: 'Minecraft 都市開発サーバー 公式サイト',
+  title: 'TeuaUDServer / 都市開発鯖',
+  description: 'TeuaUDServer / 都市開発鯖の公式サイトです。車や電車・飛行機Mod、建築Modなどを導入している自由な都市空間です。',
   themeConfig: {
     nav: [
       { text: 'ホーム', link: '/' },
