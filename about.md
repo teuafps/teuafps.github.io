@@ -1,13 +1,13 @@
 # 本サーバーについて
 
 **Teua UD Server** は、クリエイティブモードを中心とした都市開発サーバーです。  
-車・電車・飛行機などのモダンな交通機関や、建築に特化した MOD を導入し、リアルかつ自由度の高い街づくりを楽しめます。
+車・電車・飛行機などのModや、建築に特化したModを導入し、リアルかつ自由度の高い街づくりを楽しめます。
 
 ## 導入MOD
-- 🚗 車MOD
-- 🚉 電車MOD
-- ✈️ 飛行機MOD
-- 🏗️ 建築MOD
+- 🚗 ImmersiveVehicles / GTCraft / KaminariMotorWorks
+- 🚉 Minecraft Transit Railway
+- ✈️ Golden Airport Pack
+- 🏗️ Yuushya Townscape / ModernJapanCity
 などなど！
 
 ## サーバーの特徴
